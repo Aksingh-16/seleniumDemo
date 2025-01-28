@@ -1,3 +1,33 @@
+# Selenium Automation Testing with JavaScript
+
+This repository contains my project for learning and practicing **Selenium WebDriver** with **JavaScript**. It demonstrates essential automation testing skills, including writing test scripts, handling assertions, and generating detailed HTML reports using **MochaAwesome**.
+
+---
+
+## 🚀 Features
+
+- Browser automation with **Selenium WebDriver**.
+- Test case management using **Mocha**.
+- Assertion handling with **Chai** and **Node.js assert module**.
+- Detailed **HTML reports** generated using **MochaAwesome**.
+- Parameterized and headless testing for enhanced flexibility.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Selenium WebDriver**: Automates browser interactions.
+- **Mocha**: Test framework for managing and running tests.
+- **Chai**: Assertion library for validating outcomes.
+- **MochaAwesome**: Generates beautiful, interactive HTML reports.
+- **Node.js**: JavaScript runtime for executing the scripts.
+
+---
+
+## 📂 Project Structure
+
+
+
 
 ---
 

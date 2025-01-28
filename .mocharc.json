@@ -1,0 +1,8 @@
+{
+    "node-option": ["experimental-vm-modules", "no-warnings"],
+    "spec": "test/**/*.js",
+    "timeout": 10000,
+    "ui": "bdd",
+    "loader": "esmock",
+    "require": ["esm"]
+  }
